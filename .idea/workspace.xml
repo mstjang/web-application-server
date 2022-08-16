@@ -5,52 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b31e40a2-61b6-40ac-a2bc-1a9dc664d945" name="Changes" comment="제출을 위한 Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-08-16_Log.Log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/Connector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/ConnectorProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/Host.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/WebServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/constant/HttpStatusCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/exception/GeneralException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/request/HttpRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/response/ErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/response/HttpResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/service/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nhn/was/servlet/SimpleServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/apps/a/error/403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/apps/a/error/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/apps/a/error/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/apps/a/intro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/apps/b/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/server.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/apps/a/error/403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/apps/a/error/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/apps/a/error/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/apps/a/intro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/apps/b/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/Connector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/ConnectorProcess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/Host.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/WebServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/WebServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/constant/HttpStatusCode$Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/constant/HttpStatusCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/exception/GeneralException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/request/HttpRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/response/ErrorResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/response/HttpResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/service/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nhn/was/servlet/SimpleServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/server.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -101,6 +56,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
@@ -133,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660655120327</updated>
       <workItem from="1660655122369" duration="152000" />
-      <workItem from="1660655279843" duration="5262000" />
+      <workItem from="1660655279843" duration="5429000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore 셋팅">
       <created>1660655407314</created>
@@ -142,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660655407314</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="제출을 위한 Commit">
+      <created>1660660685065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660660685065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
